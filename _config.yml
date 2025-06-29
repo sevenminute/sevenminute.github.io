@@ -16,7 +16,7 @@ timezone: Asia/Jakarta
 
 title: Seven Minute # the main title
 
-tagline: A personal QA testing journal documenting bugs, cycles, and lessons learned # it will display as the subtitle
+tagline: A personal QA testing journal documenting <br> bugs, cycles, and lessons learned # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal QA testing journal documenting <br> bugs, test cycles, and small lessons learned.
