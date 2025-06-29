@@ -3,16 +3,49 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
-    body { font-family: sans-serif; max-width: 700px; margin: auto; padding: 1rem; }
-    header, footer { background: #f4f4f4; padding: 0.5rem; text-align: center; }
-    h1 { color: #333; }
+    body {
+      font-family: sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 1rem;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header, footer {
+      background: #333;
+      color: #fff;
+      padding: 1rem;
+      text-align: center;
+      border-radius: 8px;
+      margin-bottom: 1rem;
+    }
+    h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+    p.tagline {
+      margin: 0;
+      font-size: 1rem;
+      font-style: italic;
+      color: #ddd;
+    }
+    main {
+      background: #fff;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    }
+    footer {
+      font-size: 0.9rem;
+    }
   </style>
 </head>
 <body>
   <header>
     <h1>{{ site.title }}</h1>
-    <p>{{ site.tagline }}</p>
+    <p class="tagline">{{ site.tagline }}</p>
   </header>
 
   <main>
