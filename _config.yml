@@ -18,7 +18,7 @@ title: Seven Minute # the main title
 
 tagline: Every bug teaches me something # it will display as the subtitle
 
-description:  # used by seo meta and the atom feed
+description: >- # used by seo meta and the atom feed
   A personal QA testing journal documenting bugs, test cycles, and small lessons learned.
 
 # Fill in the protocol & hostname for your site.
