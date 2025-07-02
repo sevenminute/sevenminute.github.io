@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: No Back Navigation on Order Overview Page"
-date: 2025-07-02 18:30:00 +0700
+date: 2025-06-26 18:30:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, UX, navigation, ecommerce]
 ---
