@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: Error Page on Product Variant Selection"
-date: 2025-07-02 18:10:00 +0700
+date: 2025-06-26 18:10:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, variant, product, UX, website]
 ---
