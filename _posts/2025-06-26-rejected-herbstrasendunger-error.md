@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: Error Message When Accessing Product from Summersale Section"
-date: 2025-07-02 18:45:00 +0700
+date: 2025-06-26 18:45:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, ecommerce, PWA, product-page]
 ---
