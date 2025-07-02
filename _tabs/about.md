@@ -30,3 +30,6 @@ This journal is my little corner to log:
 I noticed that writing down each bug, cycle, or small lesson helps me learn faster and explain better to others.
 
 Thanks for stopping by! 🚀
+
+---
+<a href="https://www.userfeel.com/t/2f665f9f" target="_blank" rel="noopener"><img alt="HireMe image" src="https://www.userfeel.com/tester/323375/image?.png" width="257" class="no-b-lazy"></a>
