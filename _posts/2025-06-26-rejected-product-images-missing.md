@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: Missing Product Images in Category Overview Page"
-date: 2025-07-02 19:05:00 +0700
+date: 2025-06-26 19:05:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, ecommerce, UI, scope, content]
 ---
