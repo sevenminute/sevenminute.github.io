@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: Error Message on Sub-category Page"
-date: 2025-07-02 17:10:00 +0700
+date: 2025-06-26 17:10:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, website, navigation, PWA, UX]
 ---
