@@ -1,6 +1,6 @@
 ---
 title: "Error Message After Language Change: 'Something Went Wrong' on Content Load [Rejected as Duplicate]"
-date: 2025-07-02 20:15:00 +0700
+date: 2025-07-01 20:15:00 +0700
 categories: [Bug Review, Mobile App, Android]
 tags: [bug, localization, content error, video, rejected, Android]
 ---
