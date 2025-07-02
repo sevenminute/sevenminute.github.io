@@ -1,6 +1,6 @@
 ---
 title: "Audio Playback Stops After Time Skip in Meditation App [Accepted but Not Fixed]"
-date: 2025-07-02 19:45:00 +0700
+date: 2025-07-01 19:45:00 +0700
 categories: [Bug Review, Mobile App, Android]
 tags: [bug, audio, playback, UX, rejected, Android]
 ---
