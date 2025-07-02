@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: No Newsletter Confirmation Email Received"
-date: 2025-07-02 19:30:00 +0700
+date: 2025-07-01 19:30:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, email, UX, account, newsletter]
 ---
