@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: App Exits Instead of Going Back (Video Player)"
-date: 2025-07-02 16:30:00 +0700
+date: 2025-07-01 16:30:00 +0700
 categories: [Bug Review, Android]
 tags: [bug, rejected, mobile, UX, player, app crash, crowdtesting]
 ---
