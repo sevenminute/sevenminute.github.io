@@ -2,7 +2,7 @@
 title: "Deposit Page Fails to Redirect After Submission"
 date: 2025-06-23 14:42:00 +0700
 categories: [Bug Report, Android]
-tags: [bug, android, deposit, functional, critical,accepted]
+tags: [bug, android, deposit, functional, critical, accepted]
 ---
 > 🛡️ _This bug log is based on a real report submitted through a crowdtesting project. All sensitive data such as company name, user info, and internal references have been anonymized for publication purposes._
 
