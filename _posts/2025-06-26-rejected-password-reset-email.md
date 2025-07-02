@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: No Password Reset Email Received After Success Message"
-date: 2025-07-02 19:20:00 +0700
+date: 2025-06-26 19:20:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, account, email, UX, authentication]
 ---
