@@ -1,6 +1,6 @@
 ---
 title: "Rejected Bug Review: Missing Favorite Products in Wishlist"
-date: 2025-07-02 20:40:00 +0700
+date: 2025-06-26 20:40:00 +0700
 categories: [Bug Review, PWA, Web]
 tags: [bug, rejected, website, wishlist, PWA, UX, duplicate]
 ---
